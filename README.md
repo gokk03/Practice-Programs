@@ -1,2 +1,2 @@
 # Practice-Programs
-Codes while learning
+Coded while learning
